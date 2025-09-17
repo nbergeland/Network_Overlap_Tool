@@ -1,4 +1,8 @@
 # Network-Overlap-Detector🎯
+## Live Demo
+[**Try the Distribution Network Optimizer Tool**](https://claude.ai/public/artifacts/d205feb3-dc58-4f41-8319-973c975c62e7)
+
+Tool may be used and applied to your organization at this link: [Network Optimizer Demo](https://claude.ai/public/artifacts/d205feb3-dc58-4f41-8319-973c975c62e7)
 ## Overview
 The Target Transportation Network Overlap Tool is a comprehensive system designed to analyze distribution networks and optimize the assignment of distribution centers to shipment destinations. This tool employs multiple analytical methods, including machine learning, geographic distance calculations, and multi-factor scoring, to provide data-driven insights for transportation network optimization.
 
